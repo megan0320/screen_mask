@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Night Mode</string>
+    <string name="set_content_text">Tap to Adjust Brightness</string>
+    <string name="str_bright_adjust">Brightness Adjustment</string>
+    <string name="str_darkness_mode">Darkness Mode</string>
+    <string name="str_dim">Dim</string>
+    <string name="str_darker">Darker</string>
+    <string name="str_dark">Dark</string>
+
+</resources>

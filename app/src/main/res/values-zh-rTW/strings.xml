@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">夜間模式</string>
+    <string name="set_content_text">點擊以調整亮度</string>
+    <string name="str_bright_adjust">亮度調整</string>
+    <string name="str_darkness_mode">昏暗模式</string>
+    <string name="str_dim">昏暗</string>
+    <string name="str_darker">更暗</string>
+    <string name="str_dark">暗</string>
+</resources>
